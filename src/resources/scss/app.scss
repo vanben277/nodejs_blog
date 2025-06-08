@@ -1,5 +1,6 @@
-@import 'variables';
+@use 'utils/variables' as v;
 
+// @import da bi xoa  //  cu phap:   variables.tenbien
 h1 {
-    color: $text-color;
+    color: v.$text-color;
 }
