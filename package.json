@@ -33,7 +33,9 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "express-handlebars": "^8.0.3"
+    "express-handlebars": "^8.0.3",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.1"
   },
   "devDependencies": {
     "husky": "^9.1.7",
